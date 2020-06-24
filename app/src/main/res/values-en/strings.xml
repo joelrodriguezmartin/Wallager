@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallager</string>
+    <string name="tab_text_2" translatable="true">Settings</string>
+    <string name="tab_text_1" translatable="true">Albums</string>
+    <string name="title_activity_album">albumActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="album">Album</string>
+    <string name="language">Language:</string>
+    <string name="setwallpaper">Set wallpaper</string>
+    <string name="deletefromalbum">Delete from album</string>
+    <string name="actions">Actions</string>
+    <string name="wallpaperset">Wallpaper set</string>
+    <string name="imagedeleted">Image deleted</string>
+    <string name="theme">Theme:</string>
+    <string name="titlealbum">Write a name for your album</string>
+    <string name="deletealbum">Delete album</string>
+    <string name="albumdeleted">Album deleted</string>
+    <string name="renamealbum">Rename album</string>
+    <string name="albumdefault">Default Album</string>
+</resources>
